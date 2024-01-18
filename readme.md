@@ -18,11 +18,17 @@ Aquí estará todo el código de tu proyecto
   - Todas las imágenes ('img')
   - Todos los textos ('p') 
 
+**Enlaces**
+![Enlaces RAP](./imgs/enlaces.png)
+
+**Ejemplo de página dentro de uno de los enlaces**
+![Páginas RAP](./imgs/paginas.png)
+
 - Paso 5:
-Crea un array y dentro guarda cada uno de los datos de las páginas en un objeto (título, imagenes, trextos)
+Crea un array y dentro guarda cada uno de los datos de las páginas en un objeto (título, imagenes, textos)
 
 - Paso 6:
-Saca toda esa información en un console.log(cunado todo termine), o un res.send(), en otra rua o la misma... donde decidas
+Saca toda esa información en un console.log() cuando todo termine, o en un res.send() en la misma ruta o en otra... donde decidas
 
 ## PISTAS:
 - Prueba primero un scraping sencillo para ver que está trayendo algo. Por ejemplo el título de la página inicial. Si eso funciona prosigue recorriendo páginas interiores
